@@ -1,0 +1,20 @@
+
+#navlist{
+    padding-left: 20%;
+}
+#search1{
+   
+}
+#form1{
+    width: 100%;
+}
+
+#hero{
+    background-image: url(../img/hero-bg.jpg);
+    padding-top: 30px;
+}
+.card{
+    background-color: rgb(51 58 135);
+    color: white;
+    
+}

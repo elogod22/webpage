@@ -14,7 +14,14 @@
     padding-top: 30px;
 }
 .card{
-    background-color: rgb(51 58 135);
+    background-color: transparent;
+    border: none;
     color: white;
+    
+}
+@media screen and (max-width:520) {
+    .phone-1{
+        display: none;
+    }
     
 }
